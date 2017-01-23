@@ -1,0 +1,12 @@
+Overall, nicely done.
+Your methods work as they are supposed to, and the code is clean and clear.
+
+Two style issues, however!
+(1) The location of your methods in the file.  You technically can put them anywhere you want, but some places are clearly better than others.  You put them in the section labeled "Methods to fill the array" rather than "Methods to work with the array"
+(2) The instructions said to include javadoc comments.  Yours don't take advantage of that tool.  Put them in the JavaDoc format please (like the rest of the comments) and include @return comments.
+
+So your methods meet all the technical specifications, but they're not good form.  
+Collaborators will not like working with these kinds of issues.
+
+Overall, 7/10.
+9/10 when you clean it up and resubmit.
