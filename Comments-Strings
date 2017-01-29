@@ -1,0 +1,7 @@
+Very nicely modified from the IntegerArrayTools.  Clean and clear and 100% functional
+
+If I needed to find something to suggest as an improvement, your methods use "minNum" and "maxNum" - you might want to 
+rename them "minStr" and "maxStr" just to show that they are Strings.  
+
+Overall, excellent work.
+10/10
